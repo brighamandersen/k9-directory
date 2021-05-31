@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  vertical-align: top;
+  align-items: center;
+  justify-content: center;
+}
+
+.button {
+  background-color: #1a91db;
+  color: #fff;
+  line-height: 30px;
+  border-radius: 3px;
+  padding: 0.25rem 0.25rem;
+}
+
+.image {
+  margin-top: 3rem;
+  max-width: 90vw;
+}
